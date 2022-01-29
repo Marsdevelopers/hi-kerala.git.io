@@ -1,0 +1,44 @@
+html{
+    background-image: url(d335a25ed78cc876536a283567c92189.jpg);
+    background-position: 1px;
+    background-size: 50cm;
+    background-repeat: no-repeat;
+    background-blend-mode: hard-light;
+    
+}
+h1{
+    color: red;
+    background-origin: content-box;
+}
+.cross{
+    color:rgb(167, 248, 6);
+
+}
+.song1{
+    color:rgb(243, 243, 9);
+}
+.song2{
+    color:rgb(167, 248, 6);
+}
+.song3{
+    color: rgb(167, 248, 6);
+}
+.song4{
+    color: rgb(167, 248, 6);
+
+}
+.song5{
+    color: rgb(167, 248, 6);
+}
+h2{
+    color: rgb(255, 156, 7);
+}
+.end {
+    color:rgb(167, 248, 6);
+}
+.song6{
+    color: rgb(252, 5, 5);
+}
+.song7{
+    color: yellow;
+}
